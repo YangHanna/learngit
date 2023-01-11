@@ -6,4 +6,4 @@ Hanna is learning Git.
 
 Hanna like it!
 
-![节点](D:/建行/6.jpg)
+![z3](D:/简历/z3.jpg)
